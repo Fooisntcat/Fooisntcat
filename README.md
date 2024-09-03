@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Fooisntcat
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
-- 📫 How to reach me @Fooisntcat
+# Socials
+**@fooisntcat**
 
 <!---
 Fooisntcat/Fooisntcat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
