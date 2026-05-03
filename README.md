@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Fooisntcat)](https://git.io/typing-svg)
 
-[![Fooisntcat's GitHub stats](https://github-readme-stats.vercel.app/api?username=fooisntcat)](https://github.com/anuraghazra/github-readme-stats)
-
 # Socials
 **@fooisntcat**
 
